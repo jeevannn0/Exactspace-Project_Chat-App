@@ -11,16 +11,16 @@
 
 ## COMPLETED TASKS : 
 
-✅ 1) user list : const user_list = ["Alan", "Bob", "Carol", "Dean", "Elin"]
-✅ 2) Add Emoji
-✅ 3) single page application, which will have a textbox to type the message and a button to send the chat.
-✅ 4) On clicking send button, show the chat message above the textbox
-✅ 5) You need not have to develop the sidebar in the image. 
+- ✅ 1) user list : const user_list = ["Alan", "Bob", "Carol", "Dean", "Elin"]
+- ✅ 2) Add Emoji
+- ✅ 3) single page application, which will have a textbox to type the message and a button to send the chat.
+- ✅ 4) On clicking send button, show the chat message above the textbox
+- ✅ 5) You need not have to develop the sidebar in the image. 
 
 ## NOT COMPLETED TASKS [ Due to College EXAMS :) ] :
 
-❌ 1) Add mentions(@) feature. On clikcing '@' show the list of users in the user list.
-❌ 2) Create a websocket(socket.io) server using express.js and establish a client and server communication using socket.io publish and subscribe.
+- ❌ 1) Add mentions(@) feature. On clikcing '@' show the list of users in the user list.
+- ❌ 2) Create a websocket(socket.io) server using express.js and establish a client and server communication using socket.io publish and subscribe.
 
 ## Project Description
 
